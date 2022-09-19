@@ -2,8 +2,8 @@
 
 ---
 
-Website link: [galaxytour](https://www.galaxytour.vercel.app)
+Website link: [galaxytour](https://galaxytour.vercel.app/)
 
 ---
 
-![Website Img](/assets/sitess.png)
+![Website Img](./src/assets/sitess.png)
