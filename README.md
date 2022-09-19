@@ -2,7 +2,7 @@
 
 ---
 
-Website link: [galaxytour](https://galaxytour.vercel.app/)
+Website link: ** [GalaxyTour](https://galaxytour.vercel.app/) **
 
 ---
 
