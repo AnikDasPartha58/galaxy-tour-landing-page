@@ -17,20 +17,20 @@ const Pricing = () => {
                     <Link to='/contact' className='btn'>Book</Link>
                 </div>
                 <div className='card'>
-                    <h3>- Suite -</h3>
+                    <h3>- Exclusive -</h3>
                     <span className='bar'></span>
-                    <p className='btc'>1 BTC</p>
-                    <p>- 3 Days -</p>
+                    <p className='btc'>5 BTC</p>
+                    <p>- 7 Days -</p>
                     <p>- Views -</p>
                     <p>- Featured -</p>
                     <p>- Private Quarters -</p>
                     <Link to='/contact' className='btn'>Book</Link>
                 </div>
                 <div className='card'>
-                    <h3>- Executive -</h3>
+                    <h3>- Premium -</h3>
                     <span className='bar'></span>
-                    <p className='btc'>1 BTC</p>
-                    <p>- 3 Days -</p>
+                    <p className='btc'>10 BTC</p>
+                    <p>- 14 Days -</p>
                     <p>- Views -</p>
                     <p>- Featured -</p>
                     <p>- Private Quarters -</p>

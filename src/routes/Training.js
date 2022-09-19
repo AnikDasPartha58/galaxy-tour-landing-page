@@ -1,5 +1,5 @@
 import React from 'react'
-import Footer from '../assets/Footer';
+import Footer from '../components/Footer';
 import HeroImage from '../components/HeroImage';
 import Navbar from '../components/Navbar';
 import TrainingSec from '../components/Training';
